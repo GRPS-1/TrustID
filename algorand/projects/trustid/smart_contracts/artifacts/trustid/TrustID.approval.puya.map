@@ -1,0 +1,9284 @@
+{
+  "version": 3,
+  "sources": [
+    "../../trustid/contract.py"
+  ],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAGA;;AAAA;;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;AAkDK;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAWU;;;AAAA;AAAiB;;AAAjB;AAAA;;;AAA6B;AAAiB;AAAjB;AAA7B;;;;AAAP;AA1DO;AAAA;;AAAA;AAAA;AA+DH;;AACE;AADF;AAEE;;AAFF;AAGE;AAHF;AAAA;;AAAA;AAKE;AALF;AAAA;;AAAA;AAOE;AAPF;AAQU;;AAAR;AARF;AASE;;;;;;;;;;AATF;AAAA;;AAAA;AAAA;;AAaY;AAAA;AAAA;;AAGxB;;;AAjEsB;;AAAA;;AAAA;AAC0B;AAAc;AAAd;AAAjC;;AAAA;;AAAA;AAkEa;;AAAT;AAAP;AAEA;;AAAA;AApCP;AAAA;AAuC0B;;AAAA;AAAA;AAAnB;;AAAA;AAAA;;AAAA;;AACA;AAAA;;;;;;;;;;;;;AAMP;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AA7FU;AAAA;AAAA;AAqGS;AAAA;AAAA;AAAA;;AAChB;AAGe;;;AAIM;AAAA;;;AAAR;AAC8B;AAAA;AAAH;AAA3B;AAAA;AAGI;AAAd;AAAX;;;AAE+B;;AAAA;;;AAAR;AArGD;;AAAA;AAC0B;AAAc;AAAd;AAAjC;AAwGQ;;AAAA;AAAA;;AAGC;;AAA+B;;AAA/B;;;AACa;AAAA;AAAA;;AAGR;AAAjB;;AACZ;;;AAEyB;;AAAA;AAAA;AAAA;;AACiB;;AAAT;AAAA;;;AAAA;;AAAA;;;;;;AAEd;;AAAA;;AAAA;AAAP;AAvCP;;AAAA;;AAAA;AAAA;AAAA;AAAA;;;;;;;AA+CA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAAA;AAAA;AAAA;;AAAA;AAAA;AA5IU;AAAA;;AAAA;AAsJS;AAChB;AAGmB;AAAA;;;AAAR;AA5IG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;;AAAA;;AAAA;AA6IS;;AAAT;AAAP;AAGe;;;AACM;AAAA;;;AAAR;AAC8B;AAAA;AAAH;AAA3B;AAAA;AACQ;AAAd;AAAP;AAGY;;AAAA;;;AAAA;AAAA;;AACS;AAAR;AAAA;;AAEE;AAAA;;AACvB;;;AACY;;AAAA;AA9BP;AAAA;AAgCO;AAAyB;;AAAzB;;AACA;;AAAA;;;;AAMP;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAnLU;AAAA;;AAAA;AA4LS;AAChB;AAGmB;AAAA;;;AAAR;AAlLG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;AAmLS;;AAAT;AAAP;AAGY;;;AACG;AAAA;AAAA;;AACf;AAEA;;AAtBH;AAAA;;;;AA4BA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;;;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;AA/MU;AAAA;AAAA;AAwNS;AAEb;;;AACQ;AAZd;;AAAA;AAAA;AAAA;AAAA;AAAA;AAekB;AAAA;;;AACM;AAAA;;;AAAR;AAC8B;AAAA;AAAH;AAA3B;AAAA;AAGI;;AAAd;AAAX;;;AACmB;;AArBd;;;AAwBsB;;AAAA;;;AAAR;AAzNG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;AA2NJ;;AAAA;AAAX;;;AACmB;;AA5Bd;;;AA+Be;;AAAA;;AAAA;;;AACa;AAAA;AAAA;;AAEjC;;;AACqB;;AAAA;AAAA;AAAA;;AACN;;;AAAe;;AAAS;;AAAT;AAAf;;;AACQ;;AArClB;;;AAuCU;AAvCV;;;AA6CA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;;;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AA5PU;AAAA;AAAA;AAqQS;AAAA;AAAA;AAAA;;AAChB;AAGG;;;AAAX;;;AACmB;AAdd;;AAAA;AAAA;AAAA;AAAA;AAAA;AAgBY;AAAoB;AAApB;;AAAA;AAEQ;;AAAA;AAAV;AAAA;AAAA;;AAAA;AAlBV;;;AAwBA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AApRU;AAAA;AAAA;AA4RS;AAAA;AAChB;AAGmB;AAAA;;;AAAR;AAlRG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;;AAAA;;AAAA;AAmRS;;AAAT;AAAP;AAGW;AAAA;;;AAAJ;AAAP;AAEoB;;AAAR;AAEZ;AArBH;AAAA;AA2BA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AAQU;;;AAAA;AAAiB;;AAAjB;AAAA;;;AAA6B;AAAiB;AAAjB;AAA7B;;;;AAAP;AAvTO;AAAA;;AAAA;AA2TS;AAAA;AAChB;AAGmB;AAAA;;;AAAR;AAjTG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;;AAAA;;AAAA;AAkTS;;AAAT;AAAP;AAEoB;AAAR;AAAA;;AAAA;AAEZ;AAtBH;AAAA;;;;;AA4BA;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;AA3UU;AAAA;AAAA;AAmVS;AAAA;AAChB;AAGmB;AAAA;;;AAAR;AAzUG;;AAAA;AAC0B;AAAc;AAAd;AAAjC;AA0US;;AAAT;AAAP;AAEA;;AAhBH;AAAA;AAzUD;;;AAIgB;;AAAA;AAEM;;;AACX;;;;AAAA;AAAA;AAAiC;;;AAAjC;AAAA;;AAAA;AAAP;AAQJ;;;;;AAIa;;AAAA;AACI;AAAT;AAGZ;;AAAA;;;AACsC;;AAAA;AAAI;AAAJ;AAAA;AAAA;;AAAvB;;AAAA;;AAAA;AAAiC;AAAjC;AAAf;;;AAIqE;;AAAA;AAAe;AAAf;AAAlC;;AAAA;;AAAA;;AAAA;AACN;AAC4B;AAAlC;;AAAA;;AAAA;AAAP;;AAAA;AACA;;AAAI;AAAJ;AAAA;;;;;AAGD;;;;;;;;;;AAAP;;AAAA;AAEJ;;;AAG+B;;AAAA;AAAA;AAAe;;AAAf;AAApB;;AAAA;AAAA;;AAAA;AAAuD;;AAAvD;AAAP",
+  "op_pc_offset": 0,
+  "pc_events": {
+    "1": {
+      "subroutine": "algopy.arc4.ARC4Contract.approval_program",
+      "params": {},
+      "block": "main",
+      "stack_in": [],
+      "op": "intcblock 0 2 1 32"
+    },
+    "7": {
+      "op": "bytecblock 0x637265645f 0x7c 0x70726976617465 0x00 0x7075626c6963 0x151f7c75 0x80 0x7c7265766f6b6564"
+    },
+    "50": {
+      "op": "txn NumAppArgs",
+      "defined_out": [
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "tmp%0#1"
+      ]
+    },
+    "52": {
+      "op": "bz main___algopy_default_create@16",
+      "stack_out": []
+    },
+    "55": {
+      "op": "txn OnCompletion",
+      "defined_out": [
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0"
+      ]
+    },
+    "57": {
+      "op": "!",
+      "defined_out": [
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "tmp%3#0"
+      ]
+    },
+    "58": {
+      "op": "assert",
+      "stack_out": []
+    },
+    "59": {
+      "op": "txn ApplicationID",
+      "defined_out": [
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "tmp%4#0"
+      ]
+    },
+    "61": {
+      "op": "assert",
+      "stack_out": []
+    },
+    "62": {
+      "op": "pushbytess 0xe29e5f3e 0xea7aa023 0x19d32a50 0x49fbf2cf 0xba23e26f 0x4e16d763 0xf1da2c86 0xb5d3644d 0x15951268 // method \"add_credential(string,string,string,string,string)void\", method \"get_credential(string)string\", method \"grant_access(string,address,uint64)void\", method \"revoke_access(string,address)void\", method \"check_access(string,address)bool\", method \"verify_credential(string,string)bool\", method \"revoke_credential(string)void\", method \"set_access(string,string)void\", method \"delete_credential(string)void\"",
+      "defined_out": [
+        "Method(add_credential(string,string,string,string,string)void)",
+        "Method(check_access(string,address)bool)",
+        "Method(delete_credential(string)void)",
+        "Method(get_credential(string)string)",
+        "Method(grant_access(string,address,uint64)void)",
+        "Method(revoke_access(string,address)void)",
+        "Method(revoke_credential(string)void)",
+        "Method(set_access(string,string)void)",
+        "Method(verify_credential(string,string)bool)"
+      ],
+      "stack_out": [
+        "Method(add_credential(string,string,string,string,string)void)",
+        "Method(get_credential(string)string)",
+        "Method(grant_access(string,address,uint64)void)",
+        "Method(revoke_access(string,address)void)",
+        "Method(check_access(string,address)bool)",
+        "Method(verify_credential(string,string)bool)",
+        "Method(revoke_credential(string)void)",
+        "Method(set_access(string,string)void)",
+        "Method(delete_credential(string)void)"
+      ]
+    },
+    "109": {
+      "op": "txna ApplicationArgs 0",
+      "defined_out": [
+        "Method(add_credential(string,string,string,string,string)void)",
+        "Method(check_access(string,address)bool)",
+        "Method(delete_credential(string)void)",
+        "Method(get_credential(string)string)",
+        "Method(grant_access(string,address,uint64)void)",
+        "Method(revoke_access(string,address)void)",
+        "Method(revoke_credential(string)void)",
+        "Method(set_access(string,string)void)",
+        "Method(verify_credential(string,string)bool)",
+        "tmp%6#0"
+      ],
+      "stack_out": [
+        "Method(add_credential(string,string,string,string,string)void)",
+        "Method(get_credential(string)string)",
+        "Method(grant_access(string,address,uint64)void)",
+        "Method(revoke_access(string,address)void)",
+        "Method(check_access(string,address)bool)",
+        "Method(verify_credential(string,string)bool)",
+        "Method(revoke_credential(string)void)",
+        "Method(set_access(string,string)void)",
+        "Method(delete_credential(string)void)",
+        "tmp%6#0"
+      ]
+    },
+    "112": {
+      "op": "match add_credential get_credential grant_access revoke_access check_access verify_credential revoke_credential set_access delete_credential",
+      "stack_out": []
+    },
+    "132": {
+      "op": "err"
+    },
+    "133": {
+      "block": "main___algopy_default_create@16",
+      "stack_in": [],
+      "op": "txn OnCompletion",
+      "defined_out": [
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "tmp%7#0"
+      ]
+    },
+    "135": {
+      "op": "!",
+      "defined_out": [
+        "tmp%8#0"
+      ],
+      "stack_out": [
+        "tmp%8#0"
+      ]
+    },
+    "136": {
+      "op": "txn ApplicationID",
+      "defined_out": [
+        "tmp%8#0",
+        "tmp%9#0"
+      ],
+      "stack_out": [
+        "tmp%8#0",
+        "tmp%9#0"
+      ]
+    },
+    "138": {
+      "op": "!",
+      "defined_out": [
+        "tmp%10#0",
+        "tmp%8#0"
+      ],
+      "stack_out": [
+        "tmp%8#0",
+        "tmp%10#0"
+      ]
+    },
+    "139": {
+      "op": "&&",
+      "defined_out": [
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "tmp%11#0"
+      ]
+    },
+    "140": {
+      "op": "return",
+      "defined_out": [],
+      "stack_out": []
+    },
+    "141": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.add_credential[routing]",
+      "params": {},
+      "block": "add_credential",
+      "stack_in": [],
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0"
+      ]
+    },
+    "142": {
+      "op": "dup",
+      "stack_out": [
+        "data#0",
+        "value#0"
+      ]
+    },
+    "143": {
+      "op": "txna ApplicationArgs 1"
+    },
+    "146": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "148": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "149": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "150": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "151": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "152": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0"
+      ]
+    },
+    "153": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "154": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "155": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0"
+      ]
+    },
+    "156": {
+      "op": "txna ApplicationArgs 2"
+    },
+    "159": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0 (copy)"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0",
+        "hash_value#0 (copy)"
+      ]
+    },
+    "161": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0",
+        "hash_value#0 (copy)",
+        "0"
+      ]
+    },
+    "162": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%1#0",
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0",
+        "aggregate%array_length%1#0"
+      ]
+    },
+    "163": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0",
+        "aggregate%array_length%1#0",
+        "2"
+      ]
+    },
+    "164": {
+      "op": "+",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0",
+        "add%1#0"
+      ]
+    },
+    "165": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "add%1#0",
+        "hash_value#0"
+      ]
+    },
+    "166": {
+      "op": "len",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "add%1#0",
+        "hash_length#0"
+      ]
+    },
+    "167": {
+      "op": "dup"
+    },
+    "168": {
+      "op": "uncover 2",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "hash_length#0",
+        "add%1#0"
+      ]
+    },
+    "170": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%1#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "eq%1#0"
+      ]
+    },
+    "171": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0"
+      ]
+    },
+    "172": {
+      "op": "txna ApplicationArgs 3"
+    },
+    "175": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cid#0",
+        "cid#0 (copy)",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cid#0",
+        "cid#0 (copy)"
+      ]
+    },
+    "177": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cid#0",
+        "cid#0 (copy)",
+        "0"
+      ]
+    },
+    "178": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%2#0",
+        "cid#0",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cid#0",
+        "aggregate%array_length%2#0"
+      ]
+    },
+    "179": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cid#0",
+        "aggregate%array_length%2#0",
+        "2"
+      ]
+    },
+    "180": {
+      "op": "+",
+      "defined_out": [
+        "add%2#0",
+        "cid#0",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cid#0",
+        "add%2#0"
+      ]
+    },
+    "181": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "add%2#0",
+        "cid#0"
+      ]
+    },
+    "182": {
+      "op": "len",
+      "defined_out": [
+        "add%2#0",
+        "cid#0",
+        "cred_id#0",
+        "hash_length#0",
+        "hash_value#0",
+        "len%2#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "add%2#0",
+        "len%2#0"
+      ]
+    },
+    "183": {
+      "op": "==",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "eq%2#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "eq%2#0"
+      ]
+    },
+    "184": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0"
+      ]
+    },
+    "185": {
+      "op": "txna ApplicationArgs 4"
+    },
+    "188": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "cred_type#0 (copy)",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "cred_type#0",
+        "cred_type#0 (copy)"
+      ]
+    },
+    "190": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "cred_type#0",
+        "cred_type#0 (copy)",
+        "0"
+      ]
+    },
+    "191": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%3#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "cred_type#0",
+        "aggregate%array_length%3#0"
+      ]
+    },
+    "192": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "cred_type#0",
+        "aggregate%array_length%3#0",
+        "2"
+      ]
+    },
+    "193": {
+      "op": "+",
+      "defined_out": [
+        "add%3#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "cred_type#0",
+        "add%3#0"
+      ]
+    },
+    "194": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "add%3#0",
+        "cred_type#0"
+      ]
+    },
+    "195": {
+      "op": "len",
+      "defined_out": [
+        "add%3#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "len%3#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "add%3#0",
+        "len%3#0"
+      ]
+    },
+    "196": {
+      "op": "==",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "eq%3#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "eq%3#0"
+      ]
+    },
+    "197": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0"
+      ]
+    },
+    "198": {
+      "op": "txna ApplicationArgs 5"
+    },
+    "201": {
+      "op": "dupn 2",
+      "defined_out": [
+        "access#0",
+        "access#0 (copy)",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "access#0 (copy)"
+      ]
+    },
+    "203": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "access#0 (copy)",
+        "0"
+      ]
+    },
+    "204": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "access#0",
+        "aggregate%array_length%4#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "aggregate%array_length%4#0"
+      ]
+    },
+    "205": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "aggregate%array_length%4#0",
+        "2"
+      ]
+    },
+    "206": {
+      "op": "+",
+      "defined_out": [
+        "access#0",
+        "add%4#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "add%4#0"
+      ]
+    },
+    "207": {
+      "op": "dig 1",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "add%4#0",
+        "access#0 (copy)"
+      ]
+    },
+    "209": {
+      "op": "len",
+      "defined_out": [
+        "access#0",
+        "add%4#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "len%4#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "add%4#0",
+        "len%4#0"
+      ]
+    },
+    "210": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "eq%4#0",
+        "hash_length#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0",
+        "eq%4#0"
+      ]
+    },
+    "211": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "access#0"
+      ]
+    },
+    "212": {
+      "op": "extract 2 0",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "215": {
+      "op": "dup",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1"
+      ]
+    },
+    "216": {
+      "op": "bytec 4 // \"public\"",
+      "defined_out": [
+        "\"public\"",
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1",
+        "\"public\""
+      ]
+    },
+    "218": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1",
+        "tmp%1#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%1#1"
+      ]
+    },
+    "219": {
+      "op": "bnz add_credential_bool_true@3",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "222": {
+      "op": "dup",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1"
+      ]
+    },
+    "223": {
+      "op": "bytec_2 // \"private\"",
+      "defined_out": [
+        "\"private\"",
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1",
+        "\"private\""
+      ]
+    },
+    "224": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_length#0",
+        "hash_value#0",
+        "tmp%0#1",
+        "tmp%3#1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%3#1"
+      ]
+    },
+    "225": {
+      "op": "bz add_credential_bool_false@4",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "228": {
+      "block": "add_credential_bool_true@3",
+      "stack_in": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ],
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "or_result%0#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ]
+    },
+    "229": {
+      "error": "Invalid access level",
+      "block": "add_credential_bool_merge@5",
+      "stack_in": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ],
+      "op": "assert // Invalid access level",
+      "defined_out": [],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "230": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "0x637265645f"
+      ]
+    },
+    "231": {
+      "op": "dig 7",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "233": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0"
+      ]
+    },
+    "234": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0"
+      ]
+    },
+    "235": {
+      "op": "dig 7",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "hash_value#0"
+      ]
+    },
+    "237": {
+      "op": "bytec_1 // 0x7c",
+      "defined_out": [
+        "0x7c",
+        "cred_id#0",
+        "hash_value#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "hash_value#0",
+        "0x7c"
+      ]
+    },
+    "238": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%5#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%5#0"
+      ]
+    },
+    "239": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%5#0",
+        "tmp%6#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%5#0",
+        "tmp%6#0"
+      ]
+    },
+    "241": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%7#0"
+      ]
+    },
+    "242": {
+      "op": "bytec_1 // 0x7c",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%7#0",
+        "0x7c"
+      ]
+    },
+    "243": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%8#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%8#0"
+      ]
+    },
+    "244": {
+      "op": "dig 6",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%8#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%8#0",
+        "cid#0"
+      ]
+    },
+    "246": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%9#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%9#0"
+      ]
+    },
+    "247": {
+      "op": "bytec_1 // 0x7c",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%9#0",
+        "0x7c"
+      ]
+    },
+    "248": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%10#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%10#0"
+      ]
+    },
+    "249": {
+      "op": "dig 5",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%10#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%10#0",
+        "cred_type#0"
+      ]
+    },
+    "251": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%11#0"
+      ]
+    },
+    "252": {
+      "op": "bytec_1 // 0x7c",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%11#0",
+        "0x7c"
+      ]
+    },
+    "253": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%12#0"
+      ]
+    },
+    "254": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%12#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%12#0",
+        "tmp%13#0"
+      ]
+    },
+    "256": {
+      "op": "itob",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%12#0",
+        "tmp%14#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%12#0",
+        "tmp%14#0"
+      ]
+    },
+    "257": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%15#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%15#0"
+      ]
+    },
+    "258": {
+      "op": "pushbytes 0x7c6163746976657c",
+      "defined_out": [
+        "0x7c6163746976657c",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%15#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%15#0",
+        "0x7c6163746976657c"
+      ]
+    },
+    "268": {
+      "op": "concat",
+      "defined_out": [
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%16#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%16#0"
+      ]
+    },
+    "269": {
+      "op": "dig 4",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%16#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "tmp%16#0",
+        "access#0"
+      ]
+    },
+    "271": {
+      "op": "concat",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_value#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0",
+        "data#0"
+      ]
+    },
+    "272": {
+      "op": "bury 11",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_value#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0"
+      ]
+    },
+    "274": {
+      "op": "box_get",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "exists#0",
+        "hash_value#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "275": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "exists#0",
+        "value#0"
+      ]
+    },
+    "276": {
+      "op": "bury 10",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "exists#0",
+        "hash_value#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "exists#0"
+      ]
+    },
+    "278": {
+      "op": "bz add_credential_else_body@7",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0"
+      ]
+    },
+    "281": {
+      "op": "dig 5",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "hash_length#0"
+      ]
+    },
+    "283": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "hash_length#0",
+        "3"
+      ]
+    },
+    "285": {
+      "op": "+",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner_start#0"
+      ]
+    },
+    "286": {
+      "op": "dup",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "287": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "288": {
+      "op": "+",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "289": {
+      "op": "dig 10",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ]
+    },
+    "291": {
+      "op": "cover 2",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "293": {
+      "op": "substring3",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner#0"
+      ]
+    },
+    "294": {
+      "op": "txn Sender",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "owner#0",
+        "tmp%22#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "owner#0",
+        "tmp%22#0"
+      ]
+    },
+    "296": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cid#0",
+        "cred_id#0",
+        "cred_type#0",
+        "data#0",
+        "hash_length#0",
+        "hash_value#0",
+        "key#0",
+        "tmp%23#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "tmp%23#0"
+      ]
+    },
+    "297": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0"
+      ]
+    },
+    "298": {
+      "op": "dig 9",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "data#0"
+      ]
+    },
+    "300": {
+      "op": "box_put",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "301": {
+      "block": "add_credential_after_if_else@8",
+      "stack_in": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ],
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "1"
+      ]
+    },
+    "302": {
+      "op": "return",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "303": {
+      "block": "add_credential_else_body@7",
+      "stack_in": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0"
+      ],
+      "op": "dig 9",
+      "defined_out": [
+        "data#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "data#0"
+      ]
+    },
+    "305": {
+      "op": "dup",
+      "defined_out": [
+        "data#0",
+        "data#0 (copy)"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "data#0",
+        "data#0 (copy)"
+      ]
+    },
+    "306": {
+      "op": "len",
+      "defined_out": [
+        "data#0",
+        "tmp%24#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "data#0",
+        "tmp%24#0"
+      ]
+    },
+    "307": {
+      "op": "uncover 2",
+      "defined_out": [
+        "data#0",
+        "key#0",
+        "tmp%24#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "data#0",
+        "tmp%24#0",
+        "key#0"
+      ]
+    },
+    "309": {
+      "op": "dup"
+    },
+    "310": {
+      "op": "uncover 2",
+      "defined_out": [
+        "data#0",
+        "key#0",
+        "key#0 (copy)",
+        "tmp%24#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "data#0",
+        "key#0",
+        "key#0 (copy)",
+        "tmp%24#0"
+      ]
+    },
+    "312": {
+      "op": "box_create",
+      "defined_out": [
+        "data#0",
+        "key#0",
+        "{box_create}"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "data#0",
+        "key#0",
+        "{box_create}"
+      ]
+    },
+    "313": {
+      "op": "pop",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "data#0",
+        "key#0"
+      ]
+    },
+    "314": {
+      "op": "swap",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "data#0"
+      ]
+    },
+    "315": {
+      "op": "box_put",
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "316": {
+      "op": "b add_credential_after_if_else@8"
+    },
+    "319": {
+      "block": "add_credential_bool_false@4",
+      "stack_in": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1"
+      ],
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "or_result%0#0"
+      ],
+      "stack_out": [
+        "data#0",
+        "value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_length#0",
+        "cid#0",
+        "cred_type#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ]
+    },
+    "320": {
+      "op": "b add_credential_bool_merge@5"
+    },
+    "323": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.get_credential[routing]",
+      "params": {},
+      "block": "get_credential",
+      "stack_in": [],
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "grant_value#0"
+      ]
+    },
+    "324": {
+      "op": "pushbytes \"\"",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0"
+      ]
+    },
+    "326": {
+      "op": "dupn 2",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0"
+      ]
+    },
+    "328": {
+      "op": "txna ApplicationArgs 1"
+    },
+    "331": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "333": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "334": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "335": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "336": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "337": {
+      "op": "dig 1",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "339": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "340": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "341": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0"
+      ]
+    },
+    "342": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "cred_id#0",
+        "0x637265645f"
+      ]
+    },
+    "343": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "344": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "key#0"
+      ]
+    },
+    "345": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "346": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "exists#0",
+        "value#0"
+      ]
+    },
+    "347": {
+      "op": "dup",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "exists#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "348": {
+      "op": "uncover 2",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "350": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0"
+      ]
+    },
+    "351": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.parse_access",
+      "op": "callsub parse_access",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0"
+      ]
+    },
+    "354": {
+      "op": "dup",
+      "defined_out": [
+        "access_bytes#0",
+        "access_bytes#0 (copy)",
+        "cred_id#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "access_bytes#0 (copy)"
+      ]
+    },
+    "355": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "tmp%4#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "tmp%4#0"
+      ]
+    },
+    "358": {
+      "op": "btoi",
+      "defined_out": [
+        "access_bytes#0",
+        "access_len#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "access_len#0"
+      ]
+    },
+    "359": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "access_len#0",
+        "2"
+      ]
+    },
+    "360": {
+      "op": "+",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "tmp%6#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "tmp%6#0"
+      ]
+    },
+    "361": {
+      "op": "intc_1 // 2"
+    },
+    "362": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_bytes#0",
+        "2",
+        "tmp%6#0"
+      ]
+    },
+    "363": {
+      "op": "substring3",
+      "defined_out": [
+        "access_str#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_str#0"
+      ]
+    },
+    "364": {
+      "op": "bytec_2 // 0x70726976617465",
+      "defined_out": [
+        "0x70726976617465",
+        "access_str#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "access_str#0",
+        "0x70726976617465"
+      ]
+    },
+    "365": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "tmp%8#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "tmp%8#0"
+      ]
+    },
+    "366": {
+      "op": "bz get_credential_after_if_else@9",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "369": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "371": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "cred_id#0",
+        "tmp%9#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "tmp%9#0"
+      ]
+    },
+    "374": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "375": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "cred_id#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "377": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "378": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "379": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "cred_id#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "380": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "owner_start#0",
+        "tmp%2#1",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#1"
+      ]
+    },
+    "381": {
+      "op": "substring3",
+      "defined_out": [
+        "cred_id#0",
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "owner#0"
+      ]
+    },
+    "382": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "owner#0",
+        "tmp%12#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "owner#0",
+        "tmp%12#0"
+      ]
+    },
+    "384": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "is_owner#0"
+      ]
+    },
+    "385": {
+      "op": "bury 3",
+      "defined_out": [
+        "cred_id#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "387": {
+      "op": "dig 1",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "cred_id#0"
+      ]
+    },
+    "389": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "is_owner#0",
+        "tmp%14#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "cred_id#0",
+        "tmp%14#0"
+      ]
+    },
+    "391": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.access_grant_key",
+      "op": "callsub access_grant_key",
+      "defined_out": [
+        "cred_id#0",
+        "grant_key#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "grant_key#0"
+      ]
+    },
+    "394": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "grant_value#0",
+        "has_grant#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "grant_value#0",
+        "has_grant#0"
+      ]
+    },
+    "395": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "has_grant#0",
+        "grant_value#0"
+      ]
+    },
+    "396": {
+      "op": "bury 7",
+      "defined_out": [
+        "cred_id#0",
+        "grant_value#0",
+        "has_grant#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "has_grant#0"
+      ]
+    },
+    "398": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "cred_id#0",
+        "grant_value#0",
+        "has_grant#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "has_grant#0",
+        "is_grant_valid#0"
+      ]
+    },
+    "399": {
+      "op": "bury 5",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "has_grant#0"
+      ]
+    },
+    "401": {
+      "op": "bz get_credential_after_if_else@8",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "404": {
+      "op": "dig 5",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "grant_value#0"
+      ]
+    },
+    "406": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "407": {
+      "op": "dup",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "expiry#0",
+        "expiry#0"
+      ]
+    },
+    "408": {
+      "op": "bury 6",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "410": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "tmp%19#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "expiry#0",
+        "tmp%19#0"
+      ]
+    },
+    "412": {
+      "op": ">",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "tmp%20#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "tmp%20#0"
+      ]
+    },
+    "413": {
+      "op": "bnz get_credential_bool_true@5",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "416": {
+      "op": "dig 4",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "418": {
+      "op": "bnz get_credential_bool_false@6",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "421": {
+      "block": "get_credential_bool_true@5",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "is_grant_valid#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "is_grant_valid#0"
+      ]
+    },
+    "422": {
+      "op": "bury 4",
+      "defined_out": [
+        "is_grant_valid#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "424": {
+      "block": "get_credential_after_if_else@8",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "op": "dig 2",
+      "defined_out": [
+        "is_owner#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "is_owner#0"
+      ]
+    },
+    "426": {
+      "op": "dig 4",
+      "defined_out": [
+        "is_grant_valid#0",
+        "is_owner#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "is_owner#0",
+        "is_grant_valid#0"
+      ]
+    },
+    "428": {
+      "op": "||",
+      "defined_out": [
+        "is_grant_valid#0",
+        "is_owner#0",
+        "tmp%22#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "tmp%22#0"
+      ]
+    },
+    "429": {
+      "error": "Access denied: private credential",
+      "op": "assert // Access denied: private credential",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "430": {
+      "block": "get_credential_after_if_else@9",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "op": "bytec 5 // 0x151f7c75",
+      "defined_out": [
+        "0x151f7c75"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "0x151f7c75"
+      ]
+    },
+    "432": {
+      "op": "dig 1",
+      "defined_out": [
+        "0x151f7c75",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "0x151f7c75",
+        "value#0"
+      ]
+    },
+    "434": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "435": {
+      "op": "log",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "436": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "1"
+      ]
+    },
+    "437": {
+      "op": "return",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "438": {
+      "block": "get_credential_bool_false@6",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ],
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "is_grant_valid#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0",
+        "is_grant_valid#0"
+      ]
+    },
+    "439": {
+      "op": "bury 4",
+      "defined_out": [
+        "is_grant_valid#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "is_grant_valid#0",
+        "is_owner#0",
+        "cred_id#0",
+        "value#0"
+      ]
+    },
+    "441": {
+      "op": "b get_credential_after_if_else@8"
+    },
+    "444": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.grant_access[routing]",
+      "params": {},
+      "block": "grant_access",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "447": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "448": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "449": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "450": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "451": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "452": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "454": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "455": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "456": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "457": {
+      "op": "txna ApplicationArgs 2",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "460": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "grantee#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "grantee#0 (copy)"
+      ]
+    },
+    "461": {
+      "op": "len",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ]
+    },
+    "462": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0",
+        "32"
+      ]
+    },
+    "463": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%1#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "eq%1#0"
+      ]
+    },
+    "464": {
+      "error": "invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "op": "assert // invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "465": {
+      "op": "txna ApplicationArgs 3",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0"
+      ]
+    },
+    "468": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "expiry_timestamp#0 (copy)",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "expiry_timestamp#0 (copy)"
+      ]
+    },
+    "469": {
+      "op": "len",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "len%2#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "len%2#0"
+      ]
+    },
+    "470": {
+      "op": "pushint 8",
+      "defined_out": [
+        "8",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "len%2#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "len%2#0",
+        "8"
+      ]
+    },
+    "472": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%2#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "eq%2#0"
+      ]
+    },
+    "473": {
+      "error": "invalid number of bytes for arc4.uint64",
+      "op": "assert // invalid number of bytes for arc4.uint64",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0"
+      ]
+    },
+    "474": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "0x637265645f"
+      ]
+    },
+    "475": {
+      "op": "dig 3",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "0x637265645f",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "477": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "key#0"
+      ]
+    },
+    "478": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "479": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0"
+      ]
+    },
+    "480": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "481": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "tmp%3#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "484": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "485": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "487": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "488": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "489": {
+      "op": "intc_3 // 32",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "490": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "491": {
+      "op": "dig 2",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0 (copy)"
+      ]
+    },
+    "493": {
+      "op": "cover 2",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "value#0 (copy)",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "495": {
+      "op": "substring3",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner#0"
+      ]
+    },
+    "496": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "owner#0",
+        "tmp%6#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "owner#0",
+        "tmp%6#0"
+      ]
+    },
+    "498": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0",
+        "tmp%7#0"
+      ]
+    },
+    "499": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "value#0"
+      ]
+    },
+    "500": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.parse_access",
+      "op": "callsub parse_access",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0"
+      ]
+    },
+    "503": {
+      "op": "dup",
+      "defined_out": [
+        "access_bytes#0",
+        "access_bytes#0 (copy)",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "access_bytes#0 (copy)"
+      ]
+    },
+    "504": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "tmp%9#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "tmp%9#0"
+      ]
+    },
+    "507": {
+      "op": "btoi",
+      "defined_out": [
+        "access_bytes#0",
+        "access_len#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "access_len#0"
+      ]
+    },
+    "508": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "access_len#0",
+        "2"
+      ]
+    },
+    "509": {
+      "op": "+",
+      "defined_out": [
+        "access_bytes#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "tmp%11#0"
+      ]
+    },
+    "510": {
+      "op": "intc_1 // 2"
+    },
+    "511": {
+      "op": "swap",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_bytes#0",
+        "2",
+        "tmp%11#0"
+      ]
+    },
+    "512": {
+      "op": "substring3",
+      "defined_out": [
+        "access_str#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_str#0"
+      ]
+    },
+    "513": {
+      "op": "bytec_2 // 0x70726976617465",
+      "defined_out": [
+        "0x70726976617465",
+        "access_str#0",
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "access_str#0",
+        "0x70726976617465"
+      ]
+    },
+    "514": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "expiry_timestamp#0",
+        "grantee#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0",
+        "tmp%13#0"
+      ]
+    },
+    "515": {
+      "error": "Only private credentials can have grants",
+      "op": "assert // Only private credentials can have grants",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "expiry_timestamp#0"
+      ]
+    },
+    "516": {
+      "op": "cover 2",
+      "stack_out": [
+        "expiry_timestamp#0",
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "518": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.access_grant_key",
+      "op": "callsub access_grant_key",
+      "defined_out": [
+        "expiry_timestamp#0",
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "expiry_timestamp#0",
+        "grant_key#0"
+      ]
+    },
+    "521": {
+      "op": "dup"
+    },
+    "522": {
+      "op": "uncover 2",
+      "defined_out": [
+        "expiry_timestamp#0",
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "grant_key#0",
+        "grant_key#0",
+        "expiry_timestamp#0"
+      ]
+    },
+    "524": {
+      "op": "btoi",
+      "defined_out": [
+        "grant_key#0",
+        "tmp%15#0"
+      ],
+      "stack_out": [
+        "grant_key#0",
+        "grant_key#0",
+        "tmp%15#0"
+      ]
+    },
+    "525": {
+      "op": "itob",
+      "defined_out": [
+        "grant_data#0",
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "grant_key#0",
+        "grant_key#0",
+        "grant_data#0"
+      ]
+    },
+    "526": {
+      "op": "cover 2",
+      "defined_out": [
+        "grant_data#0",
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_key#0"
+      ]
+    },
+    "528": {
+      "op": "box_len",
+      "defined_out": [
+        "grant_data#0",
+        "grant_exists#0",
+        "grant_key#0",
+        "tmp%17#0"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "tmp%17#0",
+        "grant_exists#0"
+      ]
+    },
+    "529": {
+      "op": "bury 1",
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_exists#0"
+      ]
+    },
+    "531": {
+      "op": "bz grant_access_else_body@3",
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0"
+      ]
+    },
+    "534": {
+      "op": "dig 1",
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_data#0"
+      ]
+    },
+    "536": {
+      "op": "box_put",
+      "stack_out": [
+        "grant_data#0"
+      ]
+    },
+    "537": {
+      "block": "grant_access_after_if_else@4",
+      "stack_in": [
+        "grant_data#0"
+      ],
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "1"
+      ]
+    },
+    "538": {
+      "op": "return",
+      "stack_out": [
+        "grant_data#0"
+      ]
+    },
+    "539": {
+      "block": "grant_access_else_body@3",
+      "stack_in": [
+        "grant_data#0",
+        "grant_key#0"
+      ],
+      "op": "dup",
+      "defined_out": [
+        "grant_key#0",
+        "grant_key#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_key#0 (copy)"
+      ]
+    },
+    "540": {
+      "op": "pushint 8",
+      "defined_out": [
+        "8",
+        "grant_key#0",
+        "grant_key#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_key#0 (copy)",
+        "8"
+      ]
+    },
+    "542": {
+      "op": "box_create",
+      "defined_out": [
+        "grant_key#0",
+        "{box_create}"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "{box_create}"
+      ]
+    },
+    "543": {
+      "op": "pop",
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0"
+      ]
+    },
+    "544": {
+      "op": "dig 1",
+      "defined_out": [
+        "grant_data#0",
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "grant_data#0",
+        "grant_key#0",
+        "grant_data#0"
+      ]
+    },
+    "546": {
+      "op": "box_put",
+      "stack_out": [
+        "grant_data#0"
+      ]
+    },
+    "547": {
+      "op": "b grant_access_after_if_else@4"
+    },
+    "550": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.revoke_access[routing]",
+      "params": {},
+      "block": "revoke_access",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "553": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "554": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "555": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "556": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "557": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "558": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "560": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "561": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "562": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "563": {
+      "op": "txna ApplicationArgs 2",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "566": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "grantee#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "grantee#0 (copy)"
+      ]
+    },
+    "567": {
+      "op": "len",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ]
+    },
+    "568": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "len%1#0",
+        "32"
+      ]
+    },
+    "569": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%1#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "eq%1#0"
+      ]
+    },
+    "570": {
+      "error": "invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "op": "assert // invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "571": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0",
+        "grantee#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "0x637265645f"
+      ]
+    },
+    "572": {
+      "op": "dig 2",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "0x637265645f",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "574": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "key#0"
+      ]
+    },
+    "575": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "grantee#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "576": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0"
+      ]
+    },
+    "577": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "578": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "tmp%3#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "581": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "582": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "cred_id#0",
+        "grantee#0",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "584": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "585": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "586": {
+      "op": "intc_3 // 32",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "587": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "588": {
+      "op": "substring3",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner#0"
+      ]
+    },
+    "589": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner#0",
+        "tmp%6#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "owner#0",
+        "tmp%6#0"
+      ]
+    },
+    "591": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "grantee#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0",
+        "tmp%7#0"
+      ]
+    },
+    "592": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "cred_id#0",
+        "grantee#0"
+      ]
+    },
+    "593": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.access_grant_key",
+      "op": "callsub access_grant_key",
+      "defined_out": [
+        "grant_key#0"
+      ],
+      "stack_out": [
+        "grant_key#0"
+      ]
+    },
+    "596": {
+      "op": "dup",
+      "defined_out": [
+        "grant_key#0",
+        "grant_key#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_key#0",
+        "grant_key#0 (copy)"
+      ]
+    },
+    "597": {
+      "op": "box_len",
+      "defined_out": [
+        "grant_exists#0",
+        "grant_key#0",
+        "tmp%9#0"
+      ],
+      "stack_out": [
+        "grant_key#0",
+        "tmp%9#0",
+        "grant_exists#0"
+      ]
+    },
+    "598": {
+      "op": "bury 1",
+      "stack_out": [
+        "grant_key#0",
+        "grant_exists#0"
+      ]
+    },
+    "600": {
+      "error": "No grant found for this user",
+      "op": "assert // No grant found for this user",
+      "stack_out": [
+        "grant_key#0"
+      ]
+    },
+    "601": {
+      "op": "box_del",
+      "defined_out": [
+        "{box_del}"
+      ],
+      "stack_out": [
+        "{box_del}"
+      ]
+    },
+    "602": {
+      "op": "pop",
+      "stack_out": []
+    },
+    "603": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "1"
+      ]
+    },
+    "604": {
+      "op": "return",
+      "stack_out": []
+    },
+    "605": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.check_access[routing]",
+      "params": {},
+      "block": "check_access",
+      "stack_in": [],
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "grant_value#0"
+      ]
+    },
+    "606": {
+      "op": "pushbytes \"\"",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0"
+      ]
+    },
+    "608": {
+      "op": "txna ApplicationArgs 1"
+    },
+    "611": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "613": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "614": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "615": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "616": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "617": {
+      "op": "dig 1",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "619": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "620": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "621": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0"
+      ]
+    },
+    "622": {
+      "op": "txna ApplicationArgs 2"
+    },
+    "625": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "cred_id#0",
+        "user#0",
+        "user#0"
+      ]
+    },
+    "626": {
+      "op": "cover 2",
+      "defined_out": [
+        "cred_id#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0",
+        "user#0"
+      ]
+    },
+    "628": {
+      "op": "len",
+      "defined_out": [
+        "cred_id#0",
+        "len%1#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0",
+        "len%1#0"
+      ]
+    },
+    "629": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "cred_id#0",
+        "len%1#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0",
+        "len%1#0",
+        "32"
+      ]
+    },
+    "630": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%1#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0",
+        "eq%1#0"
+      ]
+    },
+    "631": {
+      "error": "invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "op": "assert // invalid number of bytes for arc4.static_array<arc4.uint8, 32>",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0"
+      ]
+    },
+    "632": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "cred_id#0",
+        "0x637265645f"
+      ]
+    },
+    "633": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "634": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "key#0"
+      ]
+    },
+    "635": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "user#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "636": {
+      "op": "bnz check_access_after_if_else@3",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "639": {
+      "op": "bytec_3 // 0x00",
+      "defined_out": [
+        "cred_id#0",
+        "tmp%2#0",
+        "user#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "640": {
+      "block": "check_access_after_inlined_smart_contracts.trustid.contract.TrustID.check_access@13",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ],
+      "op": "bytec 5 // 0x151f7c75",
+      "defined_out": [
+        "0x151f7c75"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0",
+        "0x151f7c75"
+      ]
+    },
+    "642": {
+      "op": "swap",
+      "defined_out": [
+        "0x151f7c75",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "0x151f7c75",
+        "tmp%2#0"
+      ]
+    },
+    "643": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "644": {
+      "op": "log",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "645": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "1"
+      ]
+    },
+    "646": {
+      "op": "return",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "647": {
+      "block": "check_access_after_if_else@3",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ],
+      "op": "dup",
+      "defined_out": [
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0"
+      ]
+    },
+    "648": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.parse_access",
+      "op": "callsub parse_access",
+      "defined_out": [
+        "access_bytes#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0"
+      ]
+    },
+    "651": {
+      "op": "dup",
+      "defined_out": [
+        "access_bytes#0",
+        "access_bytes#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "access_bytes#0 (copy)"
+      ]
+    },
+    "652": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "access_bytes#0",
+        "tmp%5#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "tmp%5#0"
+      ]
+    },
+    "655": {
+      "op": "btoi",
+      "defined_out": [
+        "access_bytes#0",
+        "access_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "access_len#0"
+      ]
+    },
+    "656": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "access_bytes#0",
+        "access_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "access_len#0",
+        "2"
+      ]
+    },
+    "657": {
+      "op": "+",
+      "defined_out": [
+        "access_bytes#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "tmp%7#0"
+      ]
+    },
+    "658": {
+      "op": "intc_1 // 2"
+    },
+    "659": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_bytes#0",
+        "2",
+        "tmp%7#0"
+      ]
+    },
+    "660": {
+      "op": "substring3",
+      "defined_out": [
+        "access_str#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_str#0"
+      ]
+    },
+    "661": {
+      "op": "bytec 4 // 0x7075626c6963",
+      "defined_out": [
+        "0x7075626c6963",
+        "access_str#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "access_str#0",
+        "0x7075626c6963"
+      ]
+    },
+    "663": {
+      "op": "==",
+      "defined_out": [
+        "tmp%9#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%9#0"
+      ]
+    },
+    "664": {
+      "op": "bz check_access_after_if_else@5",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "667": {
+      "op": "bytec 6 // 0x80",
+      "defined_out": [
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "669": {
+      "op": "b check_access_after_inlined_smart_contracts.trustid.contract.TrustID.check_access@13"
+    },
+    "672": {
+      "block": "check_access_after_if_else@5",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ],
+      "op": "dupn 2",
+      "defined_out": [
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "674": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "tmp%11#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "tmp%11#0"
+      ]
+    },
+    "677": {
+      "op": "btoi",
+      "defined_out": [
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "678": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "hash_len#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "680": {
+      "op": "+",
+      "defined_out": [
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "681": {
+      "op": "dup",
+      "defined_out": [
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "682": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "683": {
+      "op": "+",
+      "defined_out": [
+        "owner_start#0",
+        "tmp%2#1",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#1"
+      ]
+    },
+    "684": {
+      "op": "substring3",
+      "defined_out": [
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "owner#0"
+      ]
+    },
+    "685": {
+      "op": "dig 2",
+      "defined_out": [
+        "owner#0",
+        "user#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "owner#0",
+        "user#0"
+      ]
+    },
+    "687": {
+      "op": "==",
+      "defined_out": [
+        "tmp%14#0",
+        "user#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%14#0"
+      ]
+    },
+    "688": {
+      "op": "bz check_access_after_if_else@7",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "691": {
+      "op": "bytec 6 // 0x80",
+      "defined_out": [
+        "tmp%2#0",
+        "user#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "693": {
+      "op": "b check_access_after_inlined_smart_contracts.trustid.contract.TrustID.check_access@13"
+    },
+    "696": {
+      "block": "check_access_after_if_else@7",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ],
+      "op": "dig 2",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "cred_id#0"
+      ]
+    },
+    "698": {
+      "op": "dig 2",
+      "defined_out": [
+        "cred_id#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "cred_id#0",
+        "user#0"
+      ]
+    },
+    "700": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.access_grant_key",
+      "op": "callsub access_grant_key",
+      "defined_out": [
+        "cred_id#0",
+        "grant_key#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "grant_key#0"
+      ]
+    },
+    "703": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "grant_value#0",
+        "has_grant#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "grant_value#0",
+        "has_grant#0"
+      ]
+    },
+    "704": {
+      "op": "swap",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "has_grant#0",
+        "grant_value#0"
+      ]
+    },
+    "705": {
+      "op": "bury 6",
+      "defined_out": [
+        "cred_id#0",
+        "grant_value#0",
+        "has_grant#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "has_grant#0"
+      ]
+    },
+    "707": {
+      "op": "bz check_access_after_if_else@12",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "710": {
+      "op": "dig 4",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "grant_value#0"
+      ]
+    },
+    "712": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "713": {
+      "op": "dup",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "expiry#0",
+        "expiry#0"
+      ]
+    },
+    "714": {
+      "op": "bury 5",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "716": {
+      "op": "bz check_access_if_body@10",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "719": {
+      "op": "dig 3",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "expiry#0"
+      ]
+    },
+    "721": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "tmp%21#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "expiry#0",
+        "tmp%21#0"
+      ]
+    },
+    "723": {
+      "op": ">",
+      "defined_out": [
+        "cred_id#0",
+        "expiry#0",
+        "grant_value#0",
+        "tmp%22#0",
+        "user#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%22#0"
+      ]
+    },
+    "724": {
+      "op": "bz check_access_after_if_else@12",
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ]
+    },
+    "727": {
+      "block": "check_access_if_body@10",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ],
+      "op": "bytec 6 // 0x80",
+      "defined_out": [
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "729": {
+      "op": "b check_access_after_inlined_smart_contracts.trustid.contract.TrustID.check_access@13"
+    },
+    "732": {
+      "block": "check_access_after_if_else@12",
+      "stack_in": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0"
+      ],
+      "op": "bytec_3 // 0x00",
+      "defined_out": [
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "grant_value#0",
+        "expiry#0",
+        "cred_id#0",
+        "user#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "733": {
+      "op": "b check_access_after_inlined_smart_contracts.trustid.contract.TrustID.check_access@13"
+    },
+    "736": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.verify_credential[routing]",
+      "params": {},
+      "block": "verify_credential",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "739": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "740": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "741": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "742": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "743": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "744": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "746": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "747": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "748": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "749": {
+      "op": "txna ApplicationArgs 2"
+    },
+    "752": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0"
+      ]
+    },
+    "753": {
+      "op": "cover 2",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0"
+      ]
+    },
+    "755": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0 (copy)"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0 (copy)"
+      ]
+    },
+    "756": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "hash_value#0 (copy)",
+        "0"
+      ]
+    },
+    "757": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%1#0",
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "aggregate%array_length%1#0"
+      ]
+    },
+    "758": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "aggregate%array_length%1#0",
+        "2"
+      ]
+    },
+    "759": {
+      "op": "+",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "hash_value#0",
+        "add%1#0"
+      ]
+    },
+    "760": {
+      "op": "swap",
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "add%1#0",
+        "hash_value#0"
+      ]
+    },
+    "761": {
+      "op": "len",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_value#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "add%1#0",
+        "len%1#0"
+      ]
+    },
+    "762": {
+      "op": "dup",
+      "stack_out": [
+        "hash_value#0",
+        "cred_id#0",
+        "add%1#0",
+        "len%1#0",
+        "len%1#0"
+      ]
+    },
+    "763": {
+      "op": "cover 3",
+      "defined_out": [
+        "add%1#0",
+        "cred_id#0",
+        "hash_value#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "cred_id#0",
+        "add%1#0",
+        "len%1#0"
+      ]
+    },
+    "765": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%1#0",
+        "hash_value#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "cred_id#0",
+        "eq%1#0"
+      ]
+    },
+    "766": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "cred_id#0"
+      ]
+    },
+    "767": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0",
+        "hash_value#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "cred_id#0",
+        "0x637265645f"
+      ]
+    },
+    "768": {
+      "op": "swap",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "769": {
+      "op": "concat",
+      "defined_out": [
+        "hash_value#0",
+        "key#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "key#0"
+      ]
+    },
+    "770": {
+      "op": "box_get",
+      "defined_out": [
+        "exists#0",
+        "hash_value#0",
+        "len%1#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "771": {
+      "op": "swap",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "exists#0",
+        "value#0"
+      ]
+    },
+    "772": {
+      "op": "dup",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "exists#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "773": {
+      "op": "uncover 2",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "775": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "value#0"
+      ]
+    },
+    "776": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.is_revoked",
+      "op": "callsub is_revoked",
+      "defined_out": [
+        "hash_value#0",
+        "len%1#0",
+        "tmp%3#1",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%3#1"
+      ]
+    },
+    "779": {
+      "op": "bz verify_credential_after_if_else@3",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0"
+      ]
+    },
+    "782": {
+      "op": "bytec_3 // 0x00",
+      "defined_out": [
+        "hash_value#0",
+        "len%1#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "783": {
+      "block": "verify_credential_after_inlined_smart_contracts.trustid.contract.TrustID.verify_credential@4",
+      "stack_in": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%2#0"
+      ],
+      "op": "bytec 5 // 0x151f7c75",
+      "defined_out": [
+        "0x151f7c75"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%2#0",
+        "0x151f7c75"
+      ]
+    },
+    "785": {
+      "op": "swap",
+      "defined_out": [
+        "0x151f7c75",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "0x151f7c75",
+        "tmp%2#0"
+      ]
+    },
+    "786": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "787": {
+      "op": "log",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0"
+      ]
+    },
+    "788": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "1"
+      ]
+    },
+    "789": {
+      "op": "return",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0"
+      ]
+    },
+    "790": {
+      "block": "verify_credential_after_if_else@3",
+      "stack_in": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0"
+      ],
+      "op": "dup",
+      "defined_out": [
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "value#0"
+      ]
+    },
+    "791": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "value#0",
+        "0"
+      ]
+    },
+    "792": {
+      "op": "dig 3",
+      "defined_out": [
+        "0",
+        "len%1#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "value#0",
+        "0",
+        "len%1#0"
+      ]
+    },
+    "794": {
+      "op": "substring3",
+      "defined_out": [
+        "len%1#0",
+        "prefix#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "prefix#0"
+      ]
+    },
+    "795": {
+      "op": "dig 3",
+      "defined_out": [
+        "hash_value#0",
+        "len%1#0",
+        "prefix#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "prefix#0",
+        "hash_value#0"
+      ]
+    },
+    "797": {
+      "op": "==",
+      "defined_out": [
+        "hash_value#0",
+        "len%1#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%7#0"
+      ]
+    },
+    "798": {
+      "op": "bytec_3 // 0x00",
+      "defined_out": [
+        "0x00",
+        "hash_value#0",
+        "len%1#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%7#0",
+        "0x00"
+      ]
+    },
+    "799": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%7#0",
+        "0x00",
+        "0"
+      ]
+    },
+    "800": {
+      "op": "uncover 2",
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "0x00",
+        "0",
+        "tmp%7#0"
+      ]
+    },
+    "802": {
+      "op": "setbit",
+      "defined_out": [
+        "hash_value#0",
+        "len%1#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "hash_value#0",
+        "len%1#0",
+        "value#0",
+        "tmp%2#0"
+      ]
+    },
+    "803": {
+      "op": "b verify_credential_after_inlined_smart_contracts.trustid.contract.TrustID.verify_credential@4"
+    },
+    "806": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.revoke_credential[routing]",
+      "params": {},
+      "block": "revoke_credential",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "809": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "810": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "811": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "812": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "813": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "814": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "816": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "817": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "818": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "819": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "0x637265645f"
+      ]
+    },
+    "820": {
+      "op": "swap",
+      "stack_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "821": {
+      "op": "concat",
+      "defined_out": [
+        "key#0"
+      ],
+      "stack_out": [
+        "key#0"
+      ]
+    },
+    "822": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "key#0 (copy)"
+      ],
+      "stack_out": [
+        "key#0",
+        "key#0 (copy)"
+      ]
+    },
+    "823": {
+      "op": "box_get",
+      "defined_out": [
+        "exists#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "824": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "key#0",
+        "value#0"
+      ]
+    },
+    "825": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "826": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "key#0",
+        "tmp%3#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "829": {
+      "op": "btoi",
+      "defined_out": [
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "830": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "832": {
+      "op": "+",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "833": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "834": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "835": {
+      "op": "+",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "836": {
+      "op": "dig 2",
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0 (copy)"
+      ]
+    },
+    "838": {
+      "op": "cover 2",
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "840": {
+      "op": "substring3",
+      "defined_out": [
+        "key#0",
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner#0"
+      ]
+    },
+    "841": {
+      "op": "txn Sender",
+      "defined_out": [
+        "key#0",
+        "owner#0",
+        "tmp%6#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner#0",
+        "tmp%6#0"
+      ]
+    },
+    "843": {
+      "op": "==",
+      "defined_out": [
+        "key#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "tmp%7#0"
+      ]
+    },
+    "844": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "key#0",
+        "value#0"
+      ]
+    },
+    "845": {
+      "op": "dup",
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "846": {
+      "callsub": "smart_contracts.trustid.contract.TrustID.is_revoked",
+      "op": "callsub is_revoked",
+      "defined_out": [
+        "key#0",
+        "tmp%8#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "tmp%8#0"
+      ]
+    },
+    "849": {
+      "op": "!",
+      "defined_out": [
+        "key#0",
+        "tmp%9#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "tmp%9#0"
+      ]
+    },
+    "850": {
+      "error": "Already revoked",
+      "op": "assert // Already revoked",
+      "stack_out": [
+        "key#0",
+        "value#0"
+      ]
+    },
+    "851": {
+      "op": "bytec 7 // 0x7c7265766f6b6564",
+      "defined_out": [
+        "0x7c7265766f6b6564",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "0x7c7265766f6b6564"
+      ]
+    },
+    "853": {
+      "op": "concat",
+      "defined_out": [
+        "key#0",
+        "new_value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "new_value#0"
+      ]
+    },
+    "854": {
+      "op": "box_put",
+      "stack_out": []
+    },
+    "855": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "1"
+      ]
+    },
+    "856": {
+      "op": "return",
+      "stack_out": []
+    },
+    "857": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.set_access[routing]",
+      "params": {},
+      "block": "set_access",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1"
+    },
+    "860": {
+      "op": "dupn 2",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "862": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "863": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "864": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "865": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "866": {
+      "op": "swap",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0"
+      ]
+    },
+    "867": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "868": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "869": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "870": {
+      "op": "txna ApplicationArgs 2"
+    },
+    "873": {
+      "op": "dupn 2",
+      "defined_out": [
+        "access#0",
+        "access#0 (copy)",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "access#0 (copy)"
+      ]
+    },
+    "875": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "access#0 (copy)",
+        "0"
+      ]
+    },
+    "876": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "access#0",
+        "aggregate%array_length%1#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "aggregate%array_length%1#0"
+      ]
+    },
+    "877": {
+      "op": "intc_1 // 2",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "aggregate%array_length%1#0",
+        "2"
+      ]
+    },
+    "878": {
+      "op": "+",
+      "defined_out": [
+        "access#0",
+        "add%1#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "add%1#0"
+      ]
+    },
+    "879": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "add%1#0",
+        "access#0 (copy)"
+      ]
+    },
+    "881": {
+      "op": "len",
+      "defined_out": [
+        "access#0",
+        "add%1#0",
+        "cred_id#0",
+        "len%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "add%1#0",
+        "len%1#0"
+      ]
+    },
+    "882": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "eq%1#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0",
+        "eq%1#0"
+      ]
+    },
+    "883": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "access#0"
+      ]
+    },
+    "884": {
+      "op": "extract 2 0",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "887": {
+      "op": "dup",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1"
+      ]
+    },
+    "888": {
+      "op": "bytec 4 // \"public\"",
+      "defined_out": [
+        "\"public\"",
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1",
+        "\"public\""
+      ]
+    },
+    "890": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1",
+        "tmp%1#1"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%1#1"
+      ]
+    },
+    "891": {
+      "op": "bnz set_access_bool_true@3",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "894": {
+      "op": "dup",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1"
+      ]
+    },
+    "895": {
+      "op": "bytec_2 // \"private\"",
+      "defined_out": [
+        "\"private\"",
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%0#1",
+        "\"private\""
+      ]
+    },
+    "896": {
+      "op": "==",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "tmp%0#1",
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "tmp%3#0"
+      ]
+    },
+    "897": {
+      "op": "bz set_access_bool_false@4",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "900": {
+      "block": "set_access_bool_true@3",
+      "stack_in": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ],
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "or_result%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ]
+    },
+    "901": {
+      "error": "Invalid access level",
+      "block": "set_access_bool_merge@5",
+      "stack_in": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ],
+      "op": "assert // Invalid access level",
+      "defined_out": [],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "902": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "0x637265645f"
+      ]
+    },
+    "903": {
+      "op": "dig 3",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "905": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "key#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0"
+      ]
+    },
+    "906": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "key#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "key#0 (copy)"
+      ]
+    },
+    "907": {
+      "op": "box_get",
+      "defined_out": [
+        "cred_id#0",
+        "exists#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "908": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0"
+      ]
+    },
+    "909": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "910": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "tmp%7#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "tmp%7#0"
+      ]
+    },
+    "913": {
+      "op": "btoi",
+      "defined_out": [
+        "cred_id#0",
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "914": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "cred_id#0",
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "916": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "917": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "918": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "cred_id#0",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "919": {
+      "op": "+",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "920": {
+      "op": "dig 2",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0 (copy)"
+      ]
+    },
+    "922": {
+      "op": "cover 2",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "value#0 (copy)",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "924": {
+      "op": "substring3",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "owner#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner#0"
+      ]
+    },
+    "925": {
+      "op": "txn Sender",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "owner#0",
+        "tmp%10#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "owner#0",
+        "tmp%10#0"
+      ]
+    },
+    "927": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "tmp%11#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "tmp%11#0"
+      ]
+    },
+    "928": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0"
+      ]
+    },
+    "929": {
+      "op": "bytec_1 // 0x7c",
+      "defined_out": [
+        "0x7c",
+        "cred_id#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "value#0",
+        "0x7c"
+      ]
+    },
+    "930": {
+      "op": "concat",
+      "defined_out": [
+        "cred_id#0",
+        "key#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "tmp%12#0"
+      ]
+    },
+    "931": {
+      "op": "dig 3",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "key#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "tmp%12#0",
+        "access#0"
+      ]
+    },
+    "933": {
+      "op": "concat",
+      "defined_out": [
+        "access#0",
+        "cred_id#0",
+        "key#0",
+        "new_value#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "key#0",
+        "new_value#0"
+      ]
+    },
+    "934": {
+      "op": "box_put",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "935": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1",
+        "access#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "1"
+      ]
+    },
+    "936": {
+      "op": "return",
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ]
+    },
+    "937": {
+      "block": "set_access_bool_false@4",
+      "stack_in": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1"
+      ],
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "or_result%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "access#0",
+        "tmp%0#1",
+        "or_result%0#0"
+      ]
+    },
+    "938": {
+      "op": "b set_access_bool_merge@5"
+    },
+    "941": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.delete_credential[routing]",
+      "params": {},
+      "block": "delete_credential",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "944": {
+      "op": "dup",
+      "defined_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "945": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "cred_id#0",
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "cred_id#0 (copy)",
+        "0"
+      ]
+    },
+    "946": {
+      "error": "invalid array length header",
+      "op": "extract_uint16 // on error: invalid array length header",
+      "defined_out": [
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0"
+      ]
+    },
+    "947": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "aggregate%array_length%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "aggregate%array_length%0#0",
+        "2"
+      ]
+    },
+    "948": {
+      "op": "+",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0"
+      ]
+    },
+    "949": {
+      "op": "dig 1",
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "cred_id#0 (copy)"
+      ]
+    },
+    "951": {
+      "op": "len",
+      "defined_out": [
+        "add%0#0",
+        "cred_id#0",
+        "len%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "add%0#0",
+        "len%0#0"
+      ]
+    },
+    "952": {
+      "op": "==",
+      "defined_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "eq%0#0"
+      ]
+    },
+    "953": {
+      "error": "invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "op": "assert // invalid number of bytes for arc4.dynamic_array<arc4.uint8>",
+      "stack_out": [
+        "cred_id#0"
+      ]
+    },
+    "954": {
+      "op": "bytec_0 // 0x637265645f",
+      "defined_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ],
+      "stack_out": [
+        "cred_id#0",
+        "0x637265645f"
+      ]
+    },
+    "955": {
+      "op": "swap",
+      "stack_out": [
+        "0x637265645f",
+        "cred_id#0"
+      ]
+    },
+    "956": {
+      "op": "concat",
+      "defined_out": [
+        "key#0"
+      ],
+      "stack_out": [
+        "key#0"
+      ]
+    },
+    "957": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "key#0 (copy)"
+      ],
+      "stack_out": [
+        "key#0",
+        "key#0 (copy)"
+      ]
+    },
+    "958": {
+      "op": "box_get",
+      "defined_out": [
+        "exists#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "exists#0"
+      ]
+    },
+    "959": {
+      "error": "Credential not found",
+      "op": "assert // Credential not found",
+      "stack_out": [
+        "key#0",
+        "value#0"
+      ]
+    },
+    "960": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "value#0 (copy)"
+      ]
+    },
+    "961": {
+      "op": "substring 0 2",
+      "defined_out": [
+        "key#0",
+        "tmp%3#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "tmp%3#0"
+      ]
+    },
+    "964": {
+      "op": "btoi",
+      "defined_out": [
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "hash_len#0"
+      ]
+    },
+    "965": {
+      "op": "pushint 3",
+      "defined_out": [
+        "3",
+        "hash_len#0",
+        "key#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "hash_len#0",
+        "3"
+      ]
+    },
+    "967": {
+      "op": "+",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0"
+      ]
+    },
+    "968": {
+      "op": "dup",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)"
+      ]
+    },
+    "969": {
+      "op": "intc_3 // 32",
+      "defined_out": [
+        "32",
+        "key#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "owner_start#0 (copy)",
+        "32"
+      ]
+    },
+    "970": {
+      "op": "+",
+      "defined_out": [
+        "key#0",
+        "owner_start#0",
+        "tmp%2#0",
+        "value#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "value#0",
+        "owner_start#0",
+        "tmp%2#0"
+      ]
+    },
+    "971": {
+      "op": "substring3",
+      "defined_out": [
+        "key#0",
+        "owner#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "owner#0"
+      ]
+    },
+    "972": {
+      "op": "txn Sender",
+      "defined_out": [
+        "key#0",
+        "owner#0",
+        "tmp%6#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "owner#0",
+        "tmp%6#0"
+      ]
+    },
+    "974": {
+      "op": "==",
+      "defined_out": [
+        "key#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "key#0",
+        "tmp%7#0"
+      ]
+    },
+    "975": {
+      "error": "Not credential owner",
+      "op": "assert // Not credential owner",
+      "stack_out": [
+        "key#0"
+      ]
+    },
+    "976": {
+      "op": "box_del",
+      "defined_out": [
+        "{box_del}"
+      ],
+      "stack_out": [
+        "{box_del}"
+      ]
+    },
+    "977": {
+      "op": "pop",
+      "stack_out": []
+    },
+    "978": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "1"
+      ]
+    },
+    "979": {
+      "op": "return",
+      "stack_out": []
+    },
+    "980": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.access_grant_key",
+      "params": {
+        "cred_id#0": "bytes",
+        "grantee#0": "bytes"
+      },
+      "block": "access_grant_key",
+      "stack_in": [],
+      "op": "proto 2 1"
+    },
+    "983": {
+      "op": "frame_dig -2",
+      "defined_out": [
+        "cred_id#0 (copy)"
+      ],
+      "stack_out": [
+        "cred_id#0 (copy)"
+      ]
+    },
+    "985": {
+      "op": "sha256",
+      "defined_out": [
+        "cred_hash#0"
+      ],
+      "stack_out": [
+        "cred_hash#0"
+      ]
+    },
+    "986": {
+      "op": "substring 0 16",
+      "defined_out": [
+        "cred_hash_short#0"
+      ],
+      "stack_out": [
+        "cred_hash_short#0"
+      ]
+    },
+    "989": {
+      "op": "pushbytes 0x675f",
+      "defined_out": [
+        "0x675f",
+        "cred_hash_short#0"
+      ],
+      "stack_out": [
+        "cred_hash_short#0",
+        "0x675f"
+      ]
+    },
+    "993": {
+      "op": "swap",
+      "stack_out": [
+        "0x675f",
+        "cred_hash_short#0"
+      ]
+    },
+    "994": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0"
+      ]
+    },
+    "995": {
+      "op": "pushbytes 0x5f",
+      "defined_out": [
+        "0x5f",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "0x5f"
+      ]
+    },
+    "998": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "tmp%3#0"
+      ]
+    },
+    "999": {
+      "op": "frame_dig -1",
+      "defined_out": [
+        "grantee#0 (copy)",
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "tmp%3#0",
+        "grantee#0 (copy)"
+      ]
+    },
+    "1001": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "tmp%4#0"
+      ]
+    },
+    "1002": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "1003": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.parse_access",
+      "params": {
+        "value#0": "bytes"
+      },
+      "block": "parse_access",
+      "stack_in": [],
+      "op": "proto 1 1"
+    },
+    "1006": {
+      "op": "pushbytes \"\"",
+      "stack_out": [
+        "access_start#0"
+      ]
+    },
+    "1008": {
+      "op": "frame_dig -1",
+      "defined_out": [
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "value#0 (copy)"
+      ]
+    },
+    "1010": {
+      "op": "len",
+      "defined_out": [
+        "length#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "length#0"
+      ]
+    },
+    "1011": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1",
+        "length#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "length#0",
+        "1"
+      ]
+    },
+    "1012": {
+      "op": "-",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0"
+      ]
+    },
+    "1013": {
+      "block": "parse_access_while_top@1",
+      "stack_in": [
+        "access_start#0",
+        "i#0"
+      ],
+      "op": "frame_dig 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1015": {
+      "op": "bz parse_access_after_while@5",
+      "stack_out": [
+        "access_start#0",
+        "i#0"
+      ]
+    },
+    "1018": {
+      "op": "frame_dig 1",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1020": {
+      "op": "dup",
+      "defined_out": [
+        "i#0",
+        "i#0 (copy)"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "i#0 (copy)"
+      ]
+    },
+    "1021": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1",
+        "i#0",
+        "i#0 (copy)"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "i#0 (copy)",
+        "1"
+      ]
+    },
+    "1022": {
+      "op": "+",
+      "defined_out": [
+        "access_start#0",
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "access_start#0"
+      ]
+    },
+    "1023": {
+      "op": "dup",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "access_start#0",
+        "access_start#0"
+      ]
+    },
+    "1024": {
+      "op": "frame_bury 0",
+      "defined_out": [
+        "access_start#0",
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "access_start#0"
+      ]
+    },
+    "1026": {
+      "op": "frame_dig -1",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "access_start#0",
+        "value#0 (copy)"
+      ]
+    },
+    "1028": {
+      "op": "cover 2",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "value#0 (copy)",
+        "i#0",
+        "access_start#0"
+      ]
+    },
+    "1030": {
+      "op": "substring3",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%4#0"
+      ]
+    },
+    "1031": {
+      "op": "bytec_1 // 0x7c",
+      "defined_out": [
+        "0x7c",
+        "access_start#0",
+        "i#0",
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%4#0",
+        "0x7c"
+      ]
+    },
+    "1032": {
+      "op": "==",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%5#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%5#0"
+      ]
+    },
+    "1033": {
+      "op": "bz parse_access_after_if_else@4",
+      "stack_out": [
+        "access_start#0",
+        "i#0"
+      ]
+    },
+    "1036": {
+      "op": "frame_dig 0",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0"
+      ]
+    },
+    "1038": {
+      "op": "dup",
+      "defined_out": [
+        "access_start#0",
+        "access_start#0 (copy)",
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "access_start#0 (copy)"
+      ]
+    },
+    "1039": {
+      "op": "intc_1 // 2",
+      "defined_out": [
+        "2",
+        "access_start#0",
+        "access_start#0 (copy)",
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "access_start#0 (copy)",
+        "2"
+      ]
+    },
+    "1040": {
+      "op": "+",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0"
+      ]
+    },
+    "1041": {
+      "op": "frame_dig -1",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0",
+        "value#0 (copy)"
+      ]
+    },
+    "1043": {
+      "op": "dig 2",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0",
+        "value#0 (copy)",
+        "access_start#0 (copy)"
+      ]
+    },
+    "1045": {
+      "op": "dig 2",
+      "defined_out": [
+        "access_start#0",
+        "access_start#0 (copy)",
+        "i#0",
+        "tmp%7#0",
+        "tmp%7#0 (copy)",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0",
+        "value#0 (copy)",
+        "access_start#0 (copy)",
+        "tmp%7#0 (copy)"
+      ]
+    },
+    "1047": {
+      "op": "substring3",
+      "defined_out": [
+        "access_len_bytes#0",
+        "access_start#0",
+        "i#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0",
+        "access_len_bytes#0"
+      ]
+    },
+    "1048": {
+      "op": "btoi",
+      "defined_out": [
+        "access_len#0",
+        "access_start#0",
+        "i#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%7#0",
+        "access_len#0"
+      ]
+    },
+    "1049": {
+      "op": "+",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%11#0"
+      ]
+    },
+    "1050": {
+      "op": "frame_dig -1",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "access_start#0",
+        "tmp%11#0",
+        "value#0 (copy)"
+      ]
+    },
+    "1052": {
+      "op": "cover 2",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "value#0 (copy)",
+        "access_start#0",
+        "tmp%11#0"
+      ]
+    },
+    "1054": {
+      "op": "substring3",
+      "defined_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "tmp%12#0"
+      ]
+    },
+    "1055": {
+      "op": "frame_bury 0"
+    },
+    "1057": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "1058": {
+      "block": "parse_access_after_if_else@4",
+      "stack_in": [
+        "access_start#0",
+        "i#0"
+      ],
+      "op": "frame_dig 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1060": {
+      "op": "intc_2 // 1",
+      "defined_out": [
+        "1",
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0",
+        "1"
+      ]
+    },
+    "1061": {
+      "op": "-",
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1062": {
+      "op": "frame_bury 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0"
+      ]
+    },
+    "1064": {
+      "op": "b parse_access_while_top@1"
+    },
+    "1067": {
+      "block": "parse_access_after_while@5",
+      "stack_in": [
+        "access_start#0",
+        "i#0"
+      ],
+      "op": "pushbytes 0x00067075626c6963",
+      "defined_out": [
+        "0x00067075626c6963"
+      ],
+      "stack_out": [
+        "access_start#0",
+        "i#0",
+        "0x00067075626c6963"
+      ]
+    },
+    "1077": {
+      "op": "frame_bury 0"
+    },
+    "1079": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "1080": {
+      "subroutine": "smart_contracts.trustid.contract.TrustID.is_revoked",
+      "params": {
+        "value#0": "bytes"
+      },
+      "block": "is_revoked",
+      "stack_in": [],
+      "op": "proto 1 1"
+    },
+    "1083": {
+      "op": "frame_dig -1",
+      "defined_out": [
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "value#0 (copy)"
+      ]
+    },
+    "1085": {
+      "op": "len",
+      "defined_out": [
+        "tmp%0#0"
+      ],
+      "stack_out": [
+        "tmp%0#0"
+      ]
+    },
+    "1086": {
+      "op": "dup",
+      "defined_out": [
+        "tmp%0#0",
+        "tmp%0#0 (copy)"
+      ],
+      "stack_out": [
+        "tmp%0#0",
+        "tmp%0#0 (copy)"
+      ]
+    },
+    "1087": {
+      "op": "pushint 8",
+      "defined_out": [
+        "8",
+        "tmp%0#0",
+        "tmp%0#0 (copy)"
+      ],
+      "stack_out": [
+        "tmp%0#0",
+        "tmp%0#0 (copy)",
+        "8"
+      ]
+    },
+    "1089": {
+      "op": "-",
+      "defined_out": [
+        "tmp%0#0",
+        "tmp%1#0"
+      ],
+      "stack_out": [
+        "tmp%0#0",
+        "tmp%1#0"
+      ]
+    },
+    "1090": {
+      "op": "frame_dig -1",
+      "stack_out": [
+        "tmp%0#0",
+        "tmp%1#0",
+        "value#0 (copy)"
+      ]
+    },
+    "1092": {
+      "op": "swap",
+      "stack_out": [
+        "tmp%0#0",
+        "value#0 (copy)",
+        "tmp%1#0"
+      ]
+    },
+    "1093": {
+      "op": "uncover 2",
+      "stack_out": [
+        "value#0 (copy)",
+        "tmp%1#0",
+        "tmp%0#0"
+      ]
+    },
+    "1095": {
+      "op": "substring3",
+      "defined_out": [
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "tmp%3#0"
+      ]
+    },
+    "1096": {
+      "op": "bytec 7 // 0x7c7265766f6b6564",
+      "defined_out": [
+        "0x7c7265766f6b6564",
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "tmp%3#0",
+        "0x7c7265766f6b6564"
+      ]
+    },
+    "1098": {
+      "op": "==",
+      "defined_out": [
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "tmp%4#0"
+      ]
+    },
+    "1099": {
+      "retsub": true,
+      "op": "retsub"
+    }
+  }
+}
