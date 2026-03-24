@@ -84,53 +84,6 @@ did:algo:testnet:6E245BTHAHMBX6NCGEH2FE7MPPD7HB5AYNXNTHADTCE6RW46MEN7YNTZCI
 
 ---
 
-## Project Structure
-
-```
-TrustID/
-├── frontend/                         # Next.js 16 + TypeScript frontend
-│   ├── src/
-│   │   ├── app/                      # Next.js App Router pages
-│   │   │   ├── page.tsx              # Home — feature showcase & landing
-│   │   │   ├── profile/              # DID creation & identity management
-│   │   │   ├── add/                  # Credential upload & submission
-│   │   │   ├── my-credentials/       # User credential dashboard
-│   │   │   ├── verify/               # Public credential verification
-│   │   │   ├── did/                  # DID resolver UI
-│   │   │   ├── share/                # Access grant management
-│   │   │   └── api/
-│   │   │       ├── identifiers/[did]/route.ts   # W3C DID Resolution endpoint
-│   │   │       ├── credentials/[address]/route.ts # Credential listing endpoint
-│   │   │       ├── debug-boxes/route.ts          # Dev: inspect on-chain boxes
-│   │   │       └── test-resolver/route.ts        # Dev: test DID resolution
-│   │   ├── components/               # Reusable React components
-│   │   ├── lib/
-│   │   │   ├── algorand.ts           # Algorand SDK configuration & helpers
-│   │   │   ├── contract.ts           # Smart contract interaction layer
-│   │   │   └── did.ts                # DID creation & document construction
-│   │   └── types/                    # Shared TypeScript type definitions
-│   ├── public/                       # Static assets
-│   ├── package.json
-│   ├── tsconfig.json
-│   ├── tailwind.config.ts
-│   └── next.config.ts
-│
-├── algorand/                         # Algorand smart contracts (Python)
-│   └── projects/
-│       └── trustid/
-│           ├── smart_contracts/
-│           │   └── trustid/
-│           │       ├── contract.py   # Core TrustID AVM smart contract
-│           │       └── deploy_config.py
-│           ├── tests/                # Contract unit tests
-│           ├── pyproject.toml        # Poetry dependency manifest
-│           └── .algokit.toml        # AlgoKit project config
-│
-└── README.md
-```
-
----
-
 ## Architecture
 
 ```
