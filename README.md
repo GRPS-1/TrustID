@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 TrustID
+# TrustID
 
 ### W3C-Compliant Decentralized Identity on Algorand
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 TrustID is a **self-sovereign identity (SSI)** platform that gives users complete ownership of their digital credentials. Built on the Algorand blockchain, it enables tamper-proof storage, privacy-preserving access control, and globally resolvable DIDs — all without relying on central authorities.
 
@@ -66,7 +66,7 @@ did:algo:testnet:6E245BTHAHMBX6NCGEH2FE7MPPD7HB5AYNXNTHADTCE6RW46MEN7YNTZCI
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -84,7 +84,7 @@ did:algo:testnet:6E245BTHAHMBX6NCGEH2FE7MPPD7HB5AYNXNTHADTCE6RW46MEN7YNTZCI
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TrustID/
@@ -131,7 +131,7 @@ TrustID/
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -183,7 +183,7 @@ TrustID/
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -222,7 +222,7 @@ TrustID/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -307,7 +307,7 @@ After deployment, update `NEXT_PUBLIC_ALGORAND_APP_ID` in `.env.local` with the 
 
 ---
 
-## 🔗 Smart Contracts
+## Smart Contracts
 
 ### Contract Overview
 
@@ -357,7 +357,7 @@ Value:  expiry_timestamp
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ### `GET /api/identifiers/{did}`
 
@@ -427,11 +427,11 @@ curl https://trust-id-seven.vercel.app/api/credentials/6E245BTHAHMBX6NCGEH2FE7MP
 | `GET /api/debug-boxes` | Inspect all credential boxes on-chain |
 | `GET /api/test-resolver` | Test the DID resolution pipeline |
 
-> ⚠️ These endpoints are intended for local development only. Do not expose them in production.
+>  These endpoints are intended for local development only. Do not expose them in production.
 
 ---
 
-## 🖥️ Pages & UI
+## Pages & UI
 
 | Route | Page | Description |
 |-------|------|-------------|
@@ -445,7 +445,7 @@ curl https://trust-id-seven.vercel.app/api/credentials/6E245BTHAHMBX6NCGEH2FE7MP
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ### Frontend — Vercel (Recommended)
 
@@ -486,7 +486,7 @@ After deployment, update `NEXT_PUBLIC_ALGORAND_APP_ID` in your environment confi
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -548,7 +548,7 @@ When opening a bug report, please include:
 
 ---
 
-## 📚 References
+## References
 
 - [W3C DID Core 1.0 Specification](https://www.w3.org/TR/did-core/)
 - [W3C DID Resolution Specification](https://w3c-ccg.github.io/did-resolution/)
@@ -561,7 +561,7 @@ When opening a bug report, please include:
 
 ---
 
-## 📄 License
+## License
 
 -----------------------------------------------------------------------------
 
@@ -569,7 +569,7 @@ When opening a bug report, please include:
 
 <div align="center">
 
-Built with ❤️ on Algorand · Live at [trust-id-seven.vercel.app](https://trust-id-seven.vercel.app)
+Built on Algorand · Live at [trust-id-seven.vercel.app](https://trust-id-seven.vercel.app)
 
 TrustID maintains full compliance with the **W3C DID Core 1.0** specification and is compatible with the global decentralized identity ecosystem.
 
